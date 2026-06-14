@@ -12,7 +12,7 @@ This plugin transforms your mobile device into a Smart Card Emulator (Metro card
 ## 📦 Installation
 
 ```bash
-npm install capacitor-nfc-hce
+npm install zakirjarir/capacitor.nfchce
 npx cap sync
 ```
 
@@ -211,6 +211,8 @@ addListener(eventName: 'onHceDeactivated', listenerFunc: (data: { reason: number
 
 Construct a type with a set of properties K of type T
 
-<code>{ [P in K]: T; }</code>
+<code>{
+ [P in K]: T;
+ }</code>
 
 </docgen-api>
