@@ -12,7 +12,7 @@ This plugin transforms your mobile device into a Smart Card Emulator (Metro card
 ## 📦 Installation
 
 ```bash
-npm install zakirjarir/capacitor.nfchce
+npm install zakirjarir/capacitor-nfc-hce
 npx cap sync
 ```
 
